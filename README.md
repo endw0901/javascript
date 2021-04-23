@@ -1,5 +1,7 @@
 # javascript
 
+- [ショートカットコマンド](https://github.com/endw0901/javascript/blob/main/shortcut_command.md)
+
 ## VS code
 - JavaScript (ES6) code snippets
   
