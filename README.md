@@ -7,7 +7,7 @@
   clg => console.log
   ```
 
-- Live Server
-- Prettier
-- Auto Rename Tag
-- Bracket Pair Colorizer
+- Live Server, Prettier, Auto Rename Tag, Bracket Pair Colorizer
+
+## Projects
+- フォームValidator
