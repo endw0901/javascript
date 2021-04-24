@@ -12,4 +12,5 @@
 - Live Server, Prettier, Auto Rename Tag, Bracket Pair Colorizer
 
 ## Projects
-- [form-validator](https://github.com/endw0901/javascript/tree/main/form-validator)
+- [入力フォームバリデーション](https://github.com/endw0901/javascript/tree/main/form-validator)
+<img src="https://github.com/endw0901/javascript/blob/main/form-validator/img.png" width="30%">
