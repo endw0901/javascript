@@ -12,4 +12,4 @@
 - Live Server, Prettier, Auto Rename Tag, Bracket Pair Colorizer
 
 ## Projects
-- フォームValidator
+- [form-validator](https://github.com/endw0901/javascript/tree/main/form-validator)
