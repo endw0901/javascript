@@ -1,5 +1,8 @@
 # memo
 
+
+<img src="https://github.com/endw0901/javascript/blob/main/form-validator/img.png" width="50%">
+
 - script_before_refactoring : リファクタリング前のシンプルな DOM での javascript
 
 ## JS クラス操作
