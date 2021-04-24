@@ -1,5 +1,7 @@
 # memo
 
+<img src="https://github.com/endw0901/javascript/blob/main/movie-seat-booking/img.png" width="30%"><br>
+
 - JS のカウンター
 
 ## localStorage
