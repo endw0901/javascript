@@ -6,3 +6,10 @@ script:src + enter =>
 
 
 ```
+
+## VS code
+- JavaScript (ES6) code snippets
+  
+  ```
+  clg => console.log
+  ```
