@@ -7,5 +7,6 @@
 - [入力フォームバリデーション](https://github.com/endw0901/javascript/tree/main/form-validator)
 <img src="https://github.com/endw0901/javascript/blob/main/form-validator/img.png" width="30%">
 
-- [映画の席予約](https://github.com/endw0901/javascript/tree/main/movie-seat-booking)
+- [映画の席予約](https://github.com/endw0901/javascript/tree/main/movie-seat-booking) <br>
 ※localStorage保存、読み込み、mapループ関数<br>
+<img src="https://github.com/endw0901/javascript/blob/main/movie-seat-booking/img.png" width="30%"><br>
