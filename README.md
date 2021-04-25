@@ -10,3 +10,7 @@
 - [映画の席予約](https://github.com/endw0901/javascript/tree/main/movie-seat-booking) <br>
 ※localStorage保存、読み込み、mapループ関数<br>
 <img src="https://github.com/endw0901/javascript/blob/main/movie-seat-booking/img.png" width="30%"><br>
+
+- [ビデオプレイヤー](https://github.com/endw0901/javascript/tree/main/video-player)
+<img src="https://github.com/endw0901/javascript/blob/main/video-player/img/img.png" width="30%">
+
