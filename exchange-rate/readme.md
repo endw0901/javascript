@@ -1,5 +1,7 @@
 # memo
 
+<img src="https://github.com/endw0901/javascript/blob/main/exchange-rate/img/img.png" width="30%">
+
 ## API
 
 - Exchange-Rate API
