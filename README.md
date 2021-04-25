@@ -14,3 +14,7 @@
 - [ビデオプレイヤー](https://github.com/endw0901/javascript/tree/main/video-player)
 <img src="https://github.com/endw0901/javascript/blob/main/video-player/img/img.png" width="30%">
 
+- [為替交換レート](https://github.com/endw0901/javascript/tree/main/exchange-rate)
+<img src="https://github.com/endw0901/javascript/blob/main/exchange-rate/img/img.png" width="30%">
+
+
