@@ -24,4 +24,4 @@
 <img src="https://github.com/endw0901/javascript/blob/main/modal-menu-slider/img.png" width="40%">
 
 - [ハングマン：文字当てゲーム](https://github.com/endw0901/javascript/tree/main/hangman)
-<img src="https://github.com/endw0901/javascript/blob/main/hangman/img.png" width="40%">
+<img src="https://github.com/endw0901/javascript/blob/main/hangman/img.png" width="50%">
