@@ -1,6 +1,6 @@
 # memo
 
-<img src="https://github.com/endw0901/javascript/blob/main/hangman/img.png" width="30%">
+<img src="https://github.com/endw0901/javascript/blob/main/hangman/img.png" width="70%">
 
 ## javascript
 
