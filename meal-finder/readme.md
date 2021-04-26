@@ -1,5 +1,7 @@
 # memo
 
+<img src="https://github.com/endw0901/javascript/blob/main/meal-finder/img.png" width="30%">
+
 ## API
 
 - [The Meal DB](https://www.themealdb.com/api.php)
