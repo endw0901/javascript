@@ -1,5 +1,7 @@
 # memo
 
+<img src="https://github.com/endw0901/javascript/blob/main/expense-tracker/img.png" width="50%">
+
 # CSS
 
 - マウスオーバーのときだけ × ボタンを表示したい
