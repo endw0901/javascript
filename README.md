@@ -26,5 +26,8 @@
 - [ハングマン：文字当てゲーム](https://github.com/endw0901/javascript/tree/main/hangman)
 <img src="https://github.com/endw0901/javascript/blob/main/hangman/img.png" width="50%">
 
+- [Meal Finder：ランダムDB-Fetch](https://github.com/endw0901/javascript/tree/main/meal-finder)
+<img src="https://github.com/endw0901/javascript/blob/main/meal-finder/img.png" width="30%">
 
-https://github.com/endw0901/javascript/tree/main/meal-finder
+
+
