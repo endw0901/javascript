@@ -19,3 +19,17 @@ www.themealdb.com/api/json/v1/1/search.php?f=a
 ```
 if (term.trim()) {
 ```
+
+- key-value の配列を検索して DOM 作成
+
+```
+  for (let i = 1; i <= 20; i++) {
+    if (meal[`strIngredient${i}`]) {
+      ingredients.push(
+        `${meal[`strIngredient${i}`]} - ${meal[`strMeasure${i}`]}`
+      );
+    } else {
+      break;
+    }
+  }
+```
