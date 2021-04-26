@@ -32,5 +32,8 @@
 - [収支簿](https://github.com/endw0901/javascript/tree/main/expense-tracker)
 <img src="https://github.com/endw0901/javascript/blob/main/expense-tracker/img.png" width="50%">
 
+- [ミュージックプレイヤー](https://github.com/endw0901/javascript/tree/main/music-player)
+<img src="https://github.com/endw0901/javascript/blob/main/music-player/img.png" width="40%">
+
 
 
