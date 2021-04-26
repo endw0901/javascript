@@ -1,8 +1,6 @@
 # memo
 
-- SVG でのお絵描き
-
-SVG は、少ないデータ量でも豊かな表現ができる画像フォーマットです。 テキストデータとして編集可能なことや、CSS で装飾できる点など、さまざまな魅力を備えています。
+<img src="https://github.com/endw0901/javascript/blob/main/hangman/img.png" width="30%">
 
 ## javascript
 
@@ -37,3 +35,10 @@ if (!wrongLetters.includes(letter)) {
     ${wrongLetters.map((letter) => `<span>${letter}</span>`)}
   `;
 ```
+
+
+## SVG
+
+- SVG でのお絵描き
+
+SVG は、少ないデータ量でも豊かな表現ができる画像フォーマットです。 テキストデータとして編集可能なことや、CSS で装飾できる点など、さまざまな魅力を備えています。
