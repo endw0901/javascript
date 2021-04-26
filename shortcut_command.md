@@ -13,3 +13,10 @@ script:src + enter =>
   ```
   clg => console.log
   ```
+
+- 絵文字：https://qiita.com/quzq/items/bc42a7e95c3e2c0a497a
+
+
+  ```
+Ctrl + i
+  ```
