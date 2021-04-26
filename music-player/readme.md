@@ -1,5 +1,7 @@
 # memo
 
+<img src="https://github.com/endw0901/javascript/blob/main/music-player/img.png" width="40%">
+
 ## css
 
 - グラデーション
