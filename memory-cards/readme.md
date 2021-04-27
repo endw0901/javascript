@@ -1,5 +1,7 @@
 # memo
 
+<img src="https://github.com/endw0901/javascript/blob/main/memory-cards/img.png" width="60%">
+
 ## css
 
 - flip effect カードがめくり変える表現
