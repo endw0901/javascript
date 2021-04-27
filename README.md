@@ -39,5 +39,5 @@
 <img src="https://github.com/endw0901/javascript/blob/main/infinite_scroll_blog/img.png" width="40%">
 
 - [タイピングゲーム](https://github.com/endw0901/javascript/tree/main/typing-game)
-<img src="https://github.com/endw0901/javascript/blob/main/typing-game/img.png" width="40%">
+<img src="https://github.com/endw0901/javascript/blob/main/typing-game/img.png" width="70%">
 
