@@ -4,7 +4,7 @@
 
 ## css
 
-- flip effect カードがめくり変える表現
+- flip effect カードがめくり返す表現
 - https://webdesignfacts.net/entry/flipcards-animation/#gsc.tab=0
 
 ```
