@@ -1,5 +1,7 @@
 # memo
 
+<img src="https://github.com/endw0901/javascript/blob/main/typing-game/img.png" width="40%">
+
 ## Javascript
 
 - 配列からランダム取得
