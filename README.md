@@ -41,3 +41,7 @@
 - [タイピングゲーム](https://github.com/endw0901/javascript/tree/main/typing-game)
 <img src="https://github.com/endw0901/javascript/blob/main/typing-game/img.png" width="70%">
 
+- [ブラウザ上のテキスト音声スピーチ](https://github.com/endw0901/javascript/tree/main/text-speech-reader)
+<img src="https://github.com/endw0901/javascript/blob/main/text-speech-reader/img/img.jpg" width="50%">
+
+
