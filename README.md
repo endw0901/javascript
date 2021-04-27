@@ -48,5 +48,8 @@
 <img src="https://github.com/endw0901/javascript/blob/main/memory-cards/img.png" width="60%">
 
 
+- [歌詞検索API](https://github.com/endw0901/javascript/tree/main/lyrics-search)
+<img src="https://github.com/endw0901/javascript/blob/main/lyrics-search/img.png" width="60%">
+
 
 
