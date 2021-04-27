@@ -37,11 +37,11 @@ function showLoading() {
     loading.classList.remove('show');
   }, 1000);
 }
-
-- setTimeoutのネスト => ローディング => 1000msで消す => さらに+300msで次のコンテンツを出す
-
 ```
 
+- setTimeout のネスト => ローディング => 1000ms で消す => さらに+300ms で次のコンテンツを出す
+
+```
 function showLoading() {
 loading.classList.add('show');
 
@@ -58,9 +58,8 @@ loading.classList.remove('show');
 
 ```
 
-- 複数ブログからfilter文字列 => function filterPosts(e) {参照
-- 文字列検索indexOf: https://techacademy.jp/magazine/14759
-
+- 複数ブログから filter 文字列 => function filterPosts(e) {参照
+- 文字列検索 indexOf: https://techacademy.jp/magazine/14759
 
 ## css
 
@@ -103,7 +102,5 @@ align-items: center;
 justify-content: center;
 padding: 7px 10px;
 }
-
-```
 
 ```
