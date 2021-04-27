@@ -44,4 +44,9 @@
 - [ブラウザ上のテキスト音声スピーチ](https://github.com/endw0901/javascript/tree/main/text-speech-reader)
 <img src="https://github.com/endw0901/javascript/blob/main/text-speech-reader/img/img.jpg" width="50%">
 
+- [暗記カード：カードフリップ表現](https://github.com/endw0901/javascript/tree/main/memory-cards)
+<img src="https://github.com/endw0901/javascript/blob/main/memory-cards/img.png" width="60%">
+
+
+
 
