@@ -1,6 +1,6 @@
 # memo
 
-<img src="https://github.com/endw0901/javascript/blob/main/typing-game/img.png" width="40%">
+<img src="https://github.com/endw0901/javascript/blob/main/typing-game/img.png" width="0%">
 
 ## Javascript
 
