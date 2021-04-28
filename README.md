@@ -54,5 +54,6 @@
 - [一定時間ごと回転・変化する円グラフアニメーション](https://github.com/endw0901/javascript/tree/main/relaxer-app)
 <img src="https://github.com/endw0901/javascript/blob/main/relaxer-app/img/img.png" width="40%">
 
-
+- [ブロック崩しゲーム](https://github.com/endw0901/javascript/tree/main/breakout-game)
+<img src="https://github.com/endw0901/javascript/blob/main/breakout-game/img.png" width="40%">
 
