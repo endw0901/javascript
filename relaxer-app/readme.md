@@ -1,5 +1,7 @@
 # memo
 
+<img src="https://github.com/endw0901/javascript/blob/main/relaxer-app/img/img.png" width="40%">
+
 - 円の回転は css で rotate し、同じ時間を js で縮小拡張を time 起動 + className で分ける
 
 ## javascript
