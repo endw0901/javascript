@@ -57,3 +57,5 @@
 - [ブロック崩しゲーム](https://github.com/endw0901/javascript/tree/main/breakout-game)
 <img src="https://github.com/endw0901/javascript/blob/main/breakout-game/img.png" width="40%">
 
+- [日付カウントダウン](https://github.com/endw0901/javascript/tree/main/new-year-countdown)
+<img src="https://github.com/endw0901/javascript/blob/main/new-year-countdown/img/img.png" width="40%">
