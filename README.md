@@ -51,5 +51,8 @@
 - [歌詞検索API](https://github.com/endw0901/javascript/tree/main/lyrics-search)
 <img src="https://github.com/endw0901/javascript/blob/main/lyrics-search/img.png" width="60%">
 
+- [一定時間ごと回転・変化する円グラフアニメーション](https://github.com/endw0901/javascript/tree/main/relaxer-app)
+<img src="https://github.com/endw0901/javascript/blob/main/relaxer-app/img/img.png" width="40%">
+
 
 
