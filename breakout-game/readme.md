@@ -1,5 +1,7 @@
 # memo
 
+<img src="https://github.com/endw0901/javascript/blob/main/breakout-game/img.png" width="40%">
+
 - Canvas API : https://developer.mozilla.org/ja/docs/Web/API/Canvas_API
 - Canvas 図形の描画：https://developer.mozilla.org/ja/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes
 
