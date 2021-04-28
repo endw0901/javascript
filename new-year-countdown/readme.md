@@ -1,5 +1,7 @@
 # memo
 
+<img src="https://github.com/endw0901/javascript/blob/main/new-year-countdown/img/img.png" width="40%">
+
 ## css
 
 - image に overlay をかける：body::after
