@@ -1,6 +1,6 @@
 # memo
 
-<img src="https://github.com/endw0901/javascript/blob/main/sortable-list/img.png" width="60%">
+<img src="https://github.com/endw0901/javascript/blob/main/sortable-list/img.png" width="35%">
 
 - ドラッグ＆ドロップ: https://developer.mozilla.org/ja/docs/Web/API/HTML_Drag_and_Drop_API
 - ドラッグ＆ドロップでエフェクト＆要素入れ替え
