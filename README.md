@@ -62,3 +62,7 @@
 
 - [ドラッグ＆ドロップ・並び替え順位当て](https://github.com/endw0901/javascript/tree/main/sortable-list)
 <img src="https://github.com/endw0901/javascript/blob/main/sortable-list/img.png" width="40%">
+
+
+- [音声認識 - 数字当て](https://github.com/endw0901/javascript/tree/main/speak-number-guesser)
+<img src="https://github.com/endw0901/javascript/blob/main/speak-number-guesser/img/img.png" width="50%">
