@@ -2,6 +2,10 @@
 
 - 音声認識 API：https://developer.mozilla.org/ja/docs/Web/API/SpeechRecognition
   ※Chrome, Edge のみの実験的機能 <br>
+  
+<img src="https://github.com/endw0901/javascript/blob/main/speak-number-guesser/img/img.png" width="50%">
+
+
 
 ## javascript
 
