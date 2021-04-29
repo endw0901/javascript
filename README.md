@@ -61,4 +61,4 @@
 <img src="https://github.com/endw0901/javascript/blob/main/new-year-countdown/img/img.png" width="40%">
 
 - [ドラッグ＆ドロップ・並び替え順位当て](https://github.com/endw0901/javascript/tree/main/sortable-list)
-<img src="https://github.com/endw0901/javascript/blob/main/sortable-list/img.png" width="60%">
+<img src="https://github.com/endw0901/javascript/blob/main/sortable-list/img.png" width="40%">
